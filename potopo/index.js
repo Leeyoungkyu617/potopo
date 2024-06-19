@@ -1,8 +1,8 @@
 $(document).ready(function(){
     // 스킬 부분 
 
-    let gauge_bar = ['95%','95%','90%','90%','90%','90%']
-    let percent = ['95','95','90','90','90','90']
+    let gauge_bar = ['90%','90%','90%','90%','90%','95%']
+    let percent = ['90','90','90','90','90','95']
     let skill_color = ['#ec845a','#43b9f8','#7ac2eb','#eeaf4b','rgb(255 200 128)','rgb(128 58 189)']
     
     for (let i = 0; i < skill_color.length; i++) {
